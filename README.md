@@ -2,9 +2,9 @@
 
 This is a Streamlit web application that generates a blog post for an image using the **Gemini Pro Vision API**. The Gemini Pro Vision API is a generative AI model developed by Google that can accept both text and image in prompts and output text responses ⁵.
 
-##Try this
+## Try it
 
-⁵: [Blog Generator](https://blog-generator-0.streamlit.app/)
+[Blog Generator](https://blog-generator-0.streamlit.app/)
 
 ## Installation
 
