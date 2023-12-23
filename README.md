@@ -4,7 +4,7 @@ This is a Streamlit web application that generates a blog post for an image usin
 
 ##Try this
 
-⁵: [Blog Generator]([https://blog-generator-0.streamlit.app/]))
+⁵: [Blog Generator](https://blog-generator-0.streamlit.app/)
 
 ## Installation
 
